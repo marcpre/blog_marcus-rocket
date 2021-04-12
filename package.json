@@ -1,0 +1,22 @@
+{
+  "name": "blog_marcus-rocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpre/blog_marcus-rocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpre/blog_marcus-rocket/issues"
+  },
+  "homepage": "https://github.com/marcpre/blog_marcus-rocket#readme",
+  "dependencies": {
+    "wcmd": "^1.0.4"
+  }
+}
